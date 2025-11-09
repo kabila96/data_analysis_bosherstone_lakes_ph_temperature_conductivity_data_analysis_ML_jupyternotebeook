@@ -1,0 +1,2 @@
+# data_analysis_bosherstone_lakes_ph_temperature_conductivity_data_analysis_ML_jupyternotebeook
+Environmental Data Analysis for Bosherstone Lakes Water Chemistry pH, Temperature and Conductivity
